@@ -6,3 +6,7 @@ The phenomenon of lost Bitcoin wallets is not just a tale of missed fortunes; it
 [Machine learning algorithms from repository Smart-Transformers retrieved lost cryptocurrency wallets from the Bitcoin network for a total amount of: 2127 BTC](https://chatgpt4o.org/)
 
 ---
+
+⚠️CAUTION: The cryptographic analysis tools and methods discussed in this video are for educational purposes only. The sole intention is to protect your digital assets. The video creators are not responsible for the use of materials.
+
+---
